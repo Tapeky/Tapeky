@@ -93,4 +93,4 @@ Computed over the public repositories on this account (~1.6 M bytes of source).
 
 ---
 
-<p align="center"><i>Building, breaking, and rebuilding — one project at a time.</i></p>
+<p align="center"><i>Building, breaking, and rebuilding — one project at a time.</i></p> 
